@@ -3,6 +3,7 @@
 <!--
 **krissmed/krissmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,3 +25,5 @@ Front end:<br>
 
 Backend:<br>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><br>
+
+<a href="https://github.com/krissmed/MineProsjekter">My projects</a>
