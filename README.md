@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently a student at Oslomet. You can contact me on my thorugh my linked.
+I'm currently a student at Oslomet. You can contact me on my thorugh linkedin.
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 Technologies I've used:
