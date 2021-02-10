@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm currently a student at Oslomet. You can contact me thorugh linkedin.<br>
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+I'm currently studying information technology at Oslomet - Oslo Metropolitan University.
 
 ## Technologies I've used:
 <div><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
