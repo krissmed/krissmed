@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently studying information technology at Oslomet - Oslo Metropolitan University.
+I'm currently studying informatics at Oslomet - Oslo Metropolitan University.
 
 # Tools and languages I've used:
 <div><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
