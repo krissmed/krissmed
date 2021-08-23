@@ -14,6 +14,9 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 </div>
 
 # My projects:
+## [DATS2300 21H Algorithms and data structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/H%C3%98ST)
+#### [Github Repo](https://github.com/krissmed/Algdat2021)
+
 ## [DATA1700 21V Web Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1700/2020/H%C3%98ST)
 #### [Oblig-1](https://oblig1-krissmed.herokuapp.com/) - [Github repo](https://github.com/DATA1700/oblig-1-krissmed)<br>
 #### [Oblig-2](https://oblig2-krissmed.herokuapp.com/) - [Github repo](https://github.com/DATA1700/oblig-2-krissmed)<br>
