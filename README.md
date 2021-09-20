@@ -16,7 +16,8 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 # Course overview:
 ## [DATS2300 21H Algorithms and data structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/H%C3%98ST)
 #### [Obligatory assignment #1](https://github.com/krissmed/AlgDat-Assignment1)
-#### [Github Repo](https://github.com/krissmed/Algdat2021)
+#### [Lecture code](https://github.com/krissmed/Algdat2021)
+#### [Weekly exercises]()
 
 ## [DATA1700 21V Web Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1700/2020/H%C3%98ST)
 #### [Oblig-1](https://oblig1-krissmed.herokuapp.com/) - [Github repo](https://github.com/DATA1700/oblig-1-krissmed)<br>
