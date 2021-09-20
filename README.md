@@ -13,7 +13,7 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-# My projects:
+# Course overview:
 ## [DATS2300 21H Algorithms and data structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/H%C3%98ST)
 #### [Github Repo](https://github.com/krissmed/Algdat2021)
 
@@ -38,3 +38,5 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 #### [Weekly exercises](https://github.com/krissmed/DAPE1400-Ukesoppgaver)
+
+# My projects
