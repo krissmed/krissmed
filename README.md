@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm currently studying information technology at Oslomet - Oslo Metropolitan University.
 
-# Tools and languages I've used:
+<!-- # Tools and languages I've used:
 <div style="display: flex;"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -11,11 +11,21 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
+</div> -->
 
 # Course overview:
+## [DATA3710 IT project in practice](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3710/2021/H%C3%98ST)
+### Working at knitrr backend - a platform for knitting
+[Website](https://knitrr.com/)
+
+## [DATA2410 Networking and cloud computing](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2410/2021/H%C3%98ST)
+#### [Exam part 1 - Individual](https://github.com/krissmed/Socket-programming) - Socket programming [Python]
+#### [Exam part 2 - Group]()
+
 ## [DATS2300 21H Algorithms and data structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/H%C3%98ST)
 #### [Obligatory assignment #1](https://github.com/krissmed/AlgDat-Assignment1)
+#### [Obligatory assignment #2]()
+#### [Obligatory assignment #3]()
 #### [Lecture code](https://github.com/krissmed/Algdat2021)
 #### [Weekly exercises]()
 
@@ -42,3 +52,5 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 #### [Weekly exercises](https://github.com/krissmed/DAPE1400-Ukesoppgaver)
 
 # My projects
+<!-- Code wars repo-->
+<!-- Hackathon -->
