@@ -20,7 +20,6 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 
 ## [DATA2410 Networking and cloud computing](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2410/2021/H%C3%98ST)
 #### [Exam part 1 - Individual](https://github.com/krissmed/Socket-programming) - Socket programming [Python]
-#### [Exam part 2 - Group]()
 
 ## [DATS2300 21H Algorithms and data structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/H%C3%98ST)
 #### [Obligatory assignment #1](https://github.com/krissmed/AlgDat-Assignment1)
