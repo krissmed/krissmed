@@ -53,4 +53,6 @@ I'm currently studying information technology at Oslomet - Oslo Metropolitan Uni
 
 # My projects
 <!-- Code wars repo-->
-<!-- Hackathon -->
+<!-- Hackathon HRF-->
+<!-- Hackathon CASSINI -->
+<!-- Transfermarkt scripts --> 
