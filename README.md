@@ -1,3 +1,4 @@
+![](https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47vesz4chmvnbpx9cmrx20pnqgc38o2p8omchuob04&rid=giphy.gif&ct=s)
 ### Hi there 👋
 I'm currently studying information technology at Oslomet - Oslo Metropolitan University.
 
