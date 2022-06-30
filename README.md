@@ -1,17 +1,15 @@
 <center>
-<img height="200" src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47vesz4chmvnbpx9cmrx20pnqgc38o2p8omchuob04&rid=giphy.gif&ct=s">
+<img height="200" align="center" src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47vesz4chmvnbpx9cmrx20pnqgc38o2p8omchuob04&rid=giphy.gif&ct=s">
 </center>
 <div>
-<img style="float: right;" height="175" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"/>
+<img align="right" height="175" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"/>
 <h2>Hi there 👋</h2>
 
 I'm a programmer with a passion for open source software.
 
 Currently I'm in my 3rd year as a computer science student at the Oslo Metropolitan University. I have experience working with both frontend and backend technologies.
 
-</div
-
-<center>
+</div>
 <h2>Experience in</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
@@ -36,22 +34,22 @@ Currently I'm in my 3rd year as a computer science student at the Oslo Metropoli
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" alt="Android"/>
 </div>
-</center>
 
 ## Projects
-- [Football_transfer_scripts](https://github.com/krissmed/Football-transfer-scripts) - Collection webscrapers that collect football data from various sources⚽
+- [Football_transfer_scripts](https://github.com/krissmed/Football-transfer-scripts) - Collection of python webscrapers that collect football data from various sources ⚽
 
 - [Codewars](https://github.com/krissmed/Codewars) - Collection of codewars challenges 👨‍💻
+
+- [DAFE1200-2021](https://github.com/krissmed/DAFE1200-2021) - Website made as part of the exam in [DAFE1200](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE1200/2020/H%C3%98ST) 📝
 
 ## Accolades
 
 - First place at the 2022 Human Rights Foundation Hackathon 🏆
 
 - Second place at the 2022 Cassini Hackathon 🥈
-<center>
-<h2>Contact me at</h2>
+<h2>Contact me</h2>
 <div>
-<a href="https://www.linkedin.com/in/kristian-smedsrod/"><img style="margin-left:40;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="Linkedin"/></a>
-<a href="mailto:krissmed@protonmail.com"><img style="margin-left:40;" src="https://www.svgrepo.com/show/19046/email-at.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/kristian-smedsrod/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="Linkedin"/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="10">
+<a href="mailto:krissmed@protonmail.com"><img src="https://www.svgrepo.com/show/19046/email-at.svg" width="40"></a>
 </div>
-</center>
