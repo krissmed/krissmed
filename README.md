@@ -2,7 +2,7 @@
 <img height="200" src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47vesz4chmvnbpx9cmrx20pnqgc38o2p8omchuob04&rid=giphy.gif&ct=s">
 </div>
 
-<div style="float: right;"  align="right">
+<div style="float: right;">
 <img height="175" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"/>
 </div>
 
