@@ -1,8 +1,8 @@
 <center>
 <img height="200" src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47vesz4chmvnbpx9cmrx20pnqgc38o2p8omchuob04&rid=giphy.gif&ct=s">
 </center>
-<div >
-## Hi there 👋
+<div>
+Hi there 👋
 
 I'm a programmer with a passion for open source software.
 
@@ -30,10 +30,12 @@ Currently I'm in my 3rd year as a computer science student at the Oslo Metropoli
 </center>
 <center>
 <h2>Currently learning</h2>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" alt="Rust"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width ="50" alt="Typescript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" alt="Android"/>
+</div>
 </center>
 
 ## Projects
