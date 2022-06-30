@@ -2,14 +2,15 @@
 <img height="200" src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47vesz4chmvnbpx9cmrx20pnqgc38o2p8omchuob04&rid=giphy.gif&ct=s">
 </center>
 <div>
-Hi there 👋
+<img style="float: right;" height="175" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"/>
+<h2>Hi there 👋</h2>
 
 I'm a programmer with a passion for open source software.
 
 Currently I'm in my 3rd year as a computer science student at the Oslo Metropolitan University. I have experience working with both frontend and backend technologies.
 
-<img style="float: right;" height="175" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"/>
 </div
+
 <center>
 <h2>Experience in</h2>
 <div>
@@ -27,8 +28,7 @@ Currently I'm in my 3rd year as a computer science student at the Oslo Metropoli
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Framework"/>
 </div>
-</center>
-<center>
+
 <h2>Currently learning</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" alt="Rust"/>
@@ -48,9 +48,10 @@ Currently I'm in my 3rd year as a computer science student at the Oslo Metropoli
 - First place at the 2022 Human Rights Foundation Hackathon 🏆
 
 - Second place at the 2022 Cassini Hackathon 🥈
-
-## Contact me at
-<div align="center">
+<center>
+<h2>Contact me at</h2>
+<div>
 <a href="https://www.linkedin.com/in/kristian-smedsrod/"><img style="margin-left:40;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="Linkedin"/></a>
 <a href="mailto:krissmed@protonmail.com"><img style="margin-left:40;" src="https://www.svgrepo.com/show/19046/email-at.svg" width="40"></a>
 </div>
+</center>
