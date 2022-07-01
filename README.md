@@ -36,7 +36,7 @@ Currently I'm in my 3rd year as a computer science student at the Oslo Metropoli
 </div>
 
 ## Projects
-- [Football_transfer_scripts](https://github.com/krissmed/Football-transfer-scripts) - Collection of python webscrapers that collect football data from various sources ⚽
+- [Football-transfer-scripts](https://github.com/krissmed/Football-transfer-scripts) - Collection of python webscrapers that collect football data from various sources ⚽
 
 - [Codewars](https://github.com/krissmed/Codewars) - Collection of codewars challenges 👨‍💻
 
