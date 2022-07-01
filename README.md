@@ -1,6 +1,6 @@
-<center>
+<div align="center">
 <img height="200" align="center" src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47vesz4chmvnbpx9cmrx20pnqgc38o2p8omchuob04&rid=giphy.gif&ct=s">
-</center>
+</div>
 <div>
 <img align="right" height="175" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"/>
 <h2>Hi there 👋</h2>
