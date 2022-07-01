@@ -5,7 +5,7 @@
 <img align="right" height="175" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"/>
 <h2>Hi there 👋</h2>
 
-I'm a developer with a passion for open source software.
+I'm a developer with a passion for free and open source software.
 
 Currently I'm in my 3rd year as a computer science student at the Oslo Metropolitan University. I have experience working with both frontend and backend technologies.
 
