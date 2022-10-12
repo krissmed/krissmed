@@ -35,7 +35,7 @@ Currently I'm in my 3rd year at Oslo Metropolitan University. I have experience 
 </div>
 
 ## Projects
-- [Football-transfer-scripts](https://github.com/sortitoutsi/Football-transfer-scripts) - Collection of python webscrapers that collect football data from (transfermarkt.com)[https://www.transfermarkt.com/] ⚽
+- [Football-transfer-scripts](https://github.com/sortitoutsi/Football-transfer-scripts) - Collection of python webscrapers that collect football data from [transfermarkt.com](https://www.transfermarkt.com/)⚽
 
 - [Codewars](https://github.com/krissmed/Codewars) - Collection of codewars challenges 👨‍💻
 
