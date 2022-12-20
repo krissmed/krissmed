@@ -30,7 +30,6 @@ Currently I'm in my 3rd year at Oslo Metropolitan University. I have experience 
 <h2>Currently learning</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" alt="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width ="50" alt="Typescript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
 </div>
 
