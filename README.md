@@ -7,11 +7,11 @@
 
 I'm a software engineer with a passion for software development
 
-Currently working at the Norwegian Police IT Unit as a full stack developer
+Currently working at the Norwegian Police IT Unit as a full stack platform engineer
 
 
 </div>
-<h2>Experience in</h2>
+<h2>I have experience in</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
@@ -28,11 +28,7 @@ Currently working at the Norwegian Police IT Unit as a full stack developer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Framework"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-</div>
-
-<h2>Currently learning</h2>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" alt="Rust"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="50" alt="Kubernetes"/>
 </div>
 
 ## Projects
@@ -47,7 +43,7 @@ Currently working at the Norwegian Police IT Unit as a full stack developer
 - First place at the 2022 Human Rights Foundation Hackathon 🏆
 
 - Second place at the 2022 Cassini Hackathon 🥈
-<h2>Contact me</h2>
+
 <div>
 <a href="https://www.linkedin.com/in/kristian-smedsrod/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="Linkedin"/></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="10">
